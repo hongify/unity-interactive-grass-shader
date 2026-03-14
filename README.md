@@ -1,4 +1,4 @@
-# Shader Programming Project 2024-2: Interactive Grass System for Unity (GPU Instancing)
+# Shader Programming Project 2024-2: Interactive Grass System (GPU Instancing)
 
 ![Main Preview](Documentation/main_image.png)
 
